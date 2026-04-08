@@ -4,6 +4,8 @@
 
 This repository contains the database design for a modern clinic management system. The system is designed to handle the end-to-end workflow from patient registration and appointment scheduling to consultations, diagnostic testing, and billing.
 
+![Clinic Management ER Diagram](./clinic-management-er-diagram.png)
+
 ## 📋 Overview of the Workflow
 
 The design focuses on a clean, scalable transition through the following stages:
